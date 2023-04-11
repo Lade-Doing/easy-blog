@@ -6,7 +6,7 @@ var db = mysql.createConnection({
     host: 'localhost',
     port: '3306',
     user: 'root',
-    password: 'qw7410852',
+    password: 密码,
     database: 'blog'
 })
 db.connect( (err) => {
