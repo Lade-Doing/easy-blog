@@ -6,3 +6,4 @@ https://www.bilibili.com/video/BV1t3411F7VH/?vd_source=dda86cef46ddfa21413a60409
 使用MySQL作为后台的数据库
 
 实现图片上传功能
+# 如果大家喜欢我的项目，请为我点赞 ✨✨✨，我会继续改进我的博客项目。 
